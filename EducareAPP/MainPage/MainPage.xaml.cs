@@ -18,19 +18,21 @@ namespace EducareAPP
             InitializeComponent();
         }
 
-        private void OnforgotPassWordClicked(object sender, EventArgs e)
+     /* 
+
+        private void OnLoginClicked(object sender, EventArgs e)
         {
 
+        }
+        */
+        private void OnSignUpNowClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new SignUpPage());
         }
 
         private void OnLoginClicked(object sender, EventArgs e)
         {
 
         }
-
-        private void OnSignUpNowClicked(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new SignUpPage());
-        }
     }
-}
+} 

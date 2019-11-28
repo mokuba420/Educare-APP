@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP.Android\\EducareAPP.Android.csproj",
+      "projectUniqueName": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP.Android\\EducareAPP.Android.csproj",
       "projectName": "EducareAPP.Android",
-      "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP.Android\\EducareAPP.Android.csproj",
+      "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP.Android\\EducareAPP.Android.csproj",
       "packagesPath": "C:\\Users\\king kai\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP.Android\\obj\\",
+      "outputPath": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1942,8 +1942,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj": {
-              "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj"
+            "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj": {
+              "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj"
             }
           }
         }

@@ -9,6 +9,11 @@
                                     >
     <ContentPage.Content>
         <StackLayout>
+
+            <Image Source="signupnowbutton.png"></Image>
+
+
+
             <Label Text="Name" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20"/>
             <Entry Text="{Binding Name}"/>
             <Label Text="UserName" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20" />

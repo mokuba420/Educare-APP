@@ -19,7 +19,7 @@ namespace EducareAPP
 
         private void OnBackToHomeScreenClicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new MainPage());
         }
     }
 }

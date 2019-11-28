@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj": {}
+    "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj": {}
   },
   "projects": {
-    "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj": {
+    "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj",
+        "projectUniqueName": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj",
         "projectName": "EducareAPP",
-        "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\EducareAPP.csproj",
+        "projectPath": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\EducareAPP.csproj",
         "packagesPath": "C:\\Users\\king kai\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUBUPDATAS\\Educare App\\EducareAPP\\EducareAPP\\obj\\",
+        "outputPath": "D:\\GITHUBUPDATAS\\Educare App\\Educare-APP\\EducareAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
