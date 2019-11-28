@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace EducareAPP.WelcomePage
+namespace EducareAPP
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class WelcomePage : ContentPage
+    public partial class AnimalPage : ContentPage
     {
-        public WelcomePage()
+        public AnimalPage()
         {
             InitializeComponent();
         }

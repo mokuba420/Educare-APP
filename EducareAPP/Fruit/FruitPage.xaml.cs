@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace EducareAPP
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Fruit : ContentPage
+    public partial class FruitPage : ContentPage
     {
-        public Fruit()
+        public FruitPage()
         {
             InitializeComponent();
         }

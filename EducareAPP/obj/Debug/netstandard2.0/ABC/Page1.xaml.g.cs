@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.ABC.ABC.xaml", "ABC/ABC.xaml", typeof(global::EducareAPP.ABC.ABC))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.ABC.Page1.xaml", "ABC/Page1.xaml", typeof(global::EducareAPP.ABC.Page1))]
 
 namespace EducareAPP.ABC {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ABC\\ABC.xaml")]
-    public partial class ABC : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ABC\\Page1.xaml")]
+    public partial class Page1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ABC));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
         }
     }
 }

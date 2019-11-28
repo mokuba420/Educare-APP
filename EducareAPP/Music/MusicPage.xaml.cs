@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace EducareAPP.ABC
+namespace EducareAPP
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ABC : ContentPage
+    public partial class MusicPage : ContentPage
     {
-        public ABC()
+        public MusicPage()
         {
             InitializeComponent();
         }

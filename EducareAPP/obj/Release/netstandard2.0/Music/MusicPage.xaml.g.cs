@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.WelcomePage.WelcomePage.xaml", "WelcomePage/WelcomePage.xaml", typeof(global::EducareAPP.WelcomePage.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.Music.MusicPage.xaml", "Music/MusicPage.xaml", typeof(global::EducareAPP.MusicPage))]
 
-namespace EducareAPP.WelcomePage {
+namespace EducareAPP {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage\\WelcomePage.xaml")]
-    public partial class WelcomePage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Music\\MusicPage.xaml")]
+    public partial class MusicPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(WelcomePage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MusicPage));
         }
     }
 }

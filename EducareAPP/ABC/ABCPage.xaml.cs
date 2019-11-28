@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace EducareAPP
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Animals : ContentPage
+    public partial class ABCPage : ContentPage
     {
-        public Animals()
+        public ABCPage()
         {
             InitializeComponent();
         }

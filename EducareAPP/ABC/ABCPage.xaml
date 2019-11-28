@@ -4,19 +4,12 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="EducareAPP.WelcomePage.WelcomePage">
+             x:Class="EducareAPP.ABCPage">
     <ContentPage.Content>
-        
-        <ScrollView>
         <StackLayout>
-
-                <ImageButton Source="Abcblocks.jpg"></ImageButton>
-                <ImageButton Source="numberblocks.jpg"></ImageButton>
-                <ImageButton Source="fruit.jpg"></ImageButton>
-                <ImageButton Source=""></ImageButton>
-
-
-            </StackLayout>
-        </ScrollView>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

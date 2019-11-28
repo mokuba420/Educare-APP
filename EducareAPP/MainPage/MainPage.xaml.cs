@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace EducareAPP
+    namespace EducareAPP
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
@@ -32,7 +32,7 @@ namespace EducareAPP
 
         private void OnLoginClicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new WELLPage());
         }
     }
 } 

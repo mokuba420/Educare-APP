@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::EducareAPP.WelcomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.WelcomePage.xaml", "WelcomePage.xaml", typeof(global::EducareAPP.WelcomePage.WelcomePage))]
 
-namespace EducareAPP {
+namespace EducareAPP.WelcomePage {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("WelcomePage.xaml")]

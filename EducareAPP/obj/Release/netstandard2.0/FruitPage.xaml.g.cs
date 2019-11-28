@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.Numbers.Numbers.xaml", "Numbers/Numbers.xaml", typeof(global::EducareAPP.Numbers))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.FruitPage.xaml", "FruitPage.xaml", typeof(global::EducareAPP.FruitPage))]
 
 namespace EducareAPP {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Numbers\\Numbers.xaml")]
-    public partial class Numbers : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("FruitPage.xaml")]
+    public partial class FruitPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Numbers));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FruitPage));
         }
     }
 }

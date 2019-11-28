@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.Animals.Animals.xaml", "Animals/Animals.xaml", typeof(global::EducareAPP.Animals))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("EducareAPP.Music.MusicPage.xaml", "Music/MusicPage.xaml", typeof(global::EducareAPP.MusicPage))]
 
 namespace EducareAPP {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Animals\\Animals.xaml")]
-    public partial class Animals : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Music\\MusicPage.xaml")]
+    public partial class MusicPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Animals));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MusicPage));
         }
     }
 }
