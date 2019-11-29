@@ -6,10 +6,13 @@
              mc:Ignorable="d"
              x:Class="EducareAPP.ABCPage">
     <ContentPage.Content>
+
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            
+            
+            
         </StackLayout>
+        
+          
     </ContentPage.Content>
 </ContentPage>

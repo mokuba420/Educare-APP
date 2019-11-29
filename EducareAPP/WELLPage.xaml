@@ -17,6 +17,7 @@
                 <ImageButton Source="fruit.jpg" Clicked="Fruit"></ImageButton>
                 <ImageButton Source="Animals.jpg" Clicked="Animals" ></ImageButton>
                 <ImageButton Source="thecolorwheel.jpg" Clicked="colorwheel" ></ImageButton>
+                
                 <ImageButton Source="MusicTime.jpg" Clicked="Music" ></ImageButton>
 
 

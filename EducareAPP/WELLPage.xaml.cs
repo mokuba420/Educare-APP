@@ -47,19 +47,6 @@ namespace EducareAPP
             Navigation.PushAsync(new MusicPage());
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
     }
 }

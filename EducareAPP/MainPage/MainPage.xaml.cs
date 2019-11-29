@@ -18,13 +18,7 @@ using Xamarin.Forms;
             InitializeComponent();
         }
 
-     /* 
-
-        private void OnLoginClicked(object sender, EventArgs e)
-        {
-
-        }
-        */
+     
         private void OnSignUpNowClicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new SignUpPage());

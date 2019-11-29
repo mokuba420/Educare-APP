@@ -6,10 +6,35 @@
              mc:Ignorable="d"
              x:Class="EducareAPP.AnimalPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="210"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="200"/>
+            </Grid.RowDefinitions>
+             <Grid.ColumnDefinitions>
+             <ColumnDefinition/>
+             <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Cat" VerticalOptions="End" BackgroundColor="White" />
+            <Image Source="Cat.jpg" VerticalOptions="Start" ></Image>
+            <Label Grid.Row="0"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="dog" VerticalOptions="End" BackgroundColor="White" />
+            <Image Source="dog.jpg"  Grid.Row="0"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="150" ></Image>
+            <Label Grid.Row="1"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Horse" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="horse.png"  Grid.Row="1"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="150" ></Image>
+            <Label Grid.Row="1"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Sheep" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="sheep.jpg"  Grid.Row="1"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
+            <Label Grid.Row="2"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Panda" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="panda.jpg"  Grid.Row="2"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="140" ></Image>
+            <Label Grid.Row="2"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Zebra" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="zebra.jpg"  Grid.Row="2"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
+            <Label Grid.Row="3"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Lion" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="lion.jpg"  Grid.Row="3"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
+            <Label Grid.Row="3"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Bird" VerticalOptions="End"   BackgroundColor="White" />
+            <Image Source="bird.jpg"  Grid.Row="3"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="140" ></Image>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
