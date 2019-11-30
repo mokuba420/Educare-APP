@@ -537,3 +537,6 @@ D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\dra
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\pineapple.jpg
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\strawberry.jpg
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\watermelon.jpg
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\cowjumps.jpg
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\cowjumped.jpg
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\res\drawable\blindmics.jpeg
