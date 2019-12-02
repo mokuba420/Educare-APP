@@ -2,7 +2,6 @@ D:\GITHUBUPDATAS\Educare App\EducareAPP\EducareAPP\obj\Debug\netstandard2.0\Educ
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\App\App.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\MainPage\MainPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\SignUp\SignUpPage.xaml.g.cs
-D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Vegetable\Vegetable.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.AssemblyInfoInputs.cache
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.AssemblyInfo.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.dll
@@ -12,7 +11,6 @@ D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\Edu
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\EducareAPP.dll
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\ref\EducareAPP.dll
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\EducareAPP.pdb
-D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\XamlC.stamp
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\ABC\ABCPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Animals\AnimalPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Numbers\NumbersPage.xaml.g.cs
@@ -20,3 +18,5 @@ D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Fru
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Music\MusicPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\TheColourPage\TheColourPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\WELLPage.xaml.g.cs
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\XamlC.stamp

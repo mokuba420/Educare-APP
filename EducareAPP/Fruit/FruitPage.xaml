@@ -18,24 +18,24 @@
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <Label Grid.Row="0"  Grid.Column="0" FontSize="40" TextColor="Black"  Text="Apple" VerticalOptions="End" BackgroundColor="White" />
-                <Image Source="apple.jpg" VerticalOptions="Start" ></Image>
+                <Label Grid.Row="0"  Grid.Column="0" FontSize="40" TextColor="Black"  Text="Pear" VerticalOptions="End" BackgroundColor="White" />
+                <Image Source="pears.jpeg" VerticalOptions="Start" ></Image>
                
                 
                 
-                <Label Grid.Row="0"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Banana" VerticalOptions="End" BackgroundColor="White" />
+                <Label Grid.Row="0"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="Banana" VerticalOptions="End" BackgroundColor="White" />
                 <Image Source="banana.jpg"  Grid.Row="0"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="150" ></Image>
-                <Label Grid.Row="1"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="BlueBerry" VerticalOptions="End"   BackgroundColor="White" />
-                <Image Source="blueberry.jpg"  Grid.Row="1"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="150" ></Image>
-                <Label Grid.Row="1"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Coconut" VerticalOptions="End"   BackgroundColor="White" />
-                <Image Source="Coconut.jpg"  Grid.Row="1"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
-                <Label Grid.Row="2"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Lemon" VerticalOptions="End"   BackgroundColor="White" />
+                <Label Grid.Row="1"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="Grapes" VerticalOptions="End"   BackgroundColor="White" />
+                <Image Source="Grapes.jpg"  Grid.Row="1"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="150" ></Image>
+                <Label Grid.Row="1"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="watermelon" VerticalOptions="End"   BackgroundColor="White" />
+                <Image Source="Watermelon.jpg"  Grid.Row="1"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
+                <Label Grid.Row="2"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="Lemon" VerticalOptions="End"   BackgroundColor="White" />
                 <Image Source="Lemon.jpg"  Grid.Row="2"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="140" ></Image>
-                <Label Grid.Row="2"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="Orange" VerticalOptions="End"   BackgroundColor="White" />
+                <Label Grid.Row="2"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="Orange" VerticalOptions="End"   BackgroundColor="White" />
                 <Image Source="orange.jpg"  Grid.Row="2"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
-                <Label Grid.Row="3"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="PineApple" VerticalOptions="End"   BackgroundColor="White" />
-                <Image Source="pineapple.jpg"  Grid.Row="3"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
-                <Label Grid.Row="3"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Peach" VerticalOptions="End"   BackgroundColor="White" />
+                <Label Grid.Row="3"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="Strawberry" VerticalOptions="End"   BackgroundColor="White" />
+                <Image Source="strawberry.jpg"  Grid.Row="3"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="140" ></Image>
+                <Label Grid.Row="3"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="Peach" VerticalOptions="End"   BackgroundColor="White" />
                 <Image Source="peach.jpg"  Grid.Row="3"  Grid.Column="0"  VerticalOptions="Start" HeightRequest="140" ></Image>
             </Grid>
         </ScrollView>

@@ -15,6 +15,10 @@ namespace EducareAPP
         public ABCPage()
         {
             InitializeComponent();
+      
+        
         }
+ 
+        
     }
 }

@@ -6,10 +6,51 @@
              mc:Ignorable="d"
              x:Class="EducareAPP.TheColourPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="210"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0"  Grid.Column="0" FontSize="40" TextColor="Black"  Text="white" VerticalOptions="End" BackgroundColor="White" />
+             
+
+                <Label Grid.Row="0"  Grid.Column="1" FontSize="35"   TextColor="Black"  HorizontalOptions="Fill" VerticalOptions="Fill"  BackgroundColor="Red" />
+                <Label Grid.Row="0"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="RED" VerticalOptions="EndAndExpand"  BackgroundColor="Red" />
+
+
+
+                <Label Grid.Row="1"  Grid.Column="0" FontSize="35"  HorizontalOptions="Fill" VerticalOptions="Fill"     BackgroundColor="blue" />
+                <Label Grid.Row="1"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="BLUE" VerticalOptions="End"   BackgroundColor="blue" />
+
+                <Label Grid.Row="1"  Grid.Column="1" FontSize="35" HorizontalOptions="Fill" VerticalOptions="Fill"   BackgroundColor="Green" />
+                <Label Grid.Row="1"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="Green" VerticalOptions="End"   BackgroundColor="Green" />
+
+                <Label Grid.Row="2"  Grid.Column="0" FontSize="35"     HorizontalOptions="Fill" VerticalOptions="Fill"    BackgroundColor="Orange" />
+                <Label Grid.Row="2"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="Orange" VerticalOptions="End"   BackgroundColor="Orange" />
+
+
+                <Label Grid.Row="2"  Grid.Column="1" FontSize="35"  HorizontalOptions="Fill" VerticalOptions="Fill"    BackgroundColor="Yellow" />
+                <Label Grid.Row="2"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="YELLOW" VerticalOptions="End"   BackgroundColor="Yellow" />
+
+
+
+
+                <Label Grid.Row="3"  Grid.Column="1" FontSize="35"   HorizontalOptions="Fill" VerticalOptions="Fill"  BackgroundColor="Pink" />
+                <Label Grid.Row="3"  Grid.Column="1" FontSize="35"   TextColor="Black"  Text="PINK" VerticalOptions="End"   BackgroundColor="Pink" />
+
+
+                <Label Grid.Row="3"  Grid.Column="0" FontSize="35"    HorizontalOptions="Fill" VerticalOptions="Fill"    BackgroundColor="Purple" />
+
+                <Label Grid.Row="3"  Grid.Column="0" FontSize="35"   TextColor="Black"  Text="PURPLE" VerticalOptions="End"   BackgroundColor="Purple" />
+               
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
