@@ -19,7 +19,7 @@
              <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <Label Grid.Row="0"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Cat" VerticalOptions="End" BackgroundColor="White" />
-            <Image Source="Cat.jpg" VerticalOptions="Start" ></Image>
+            <Image Source="Cats.jpg" VerticalOptions="Start" ></Image>
             <Label Grid.Row="0"  Grid.Column="1" FontSize="60"   TextColor="Black"  Text="dog" VerticalOptions="End" BackgroundColor="White" />
             <Image Source="dog.jpg"  Grid.Row="0"  Grid.Column="1"  VerticalOptions="Start" HeightRequest="150" ></Image>
             <Label Grid.Row="1"  Grid.Column="0" FontSize="60"   TextColor="Black"  Text="Horse" VerticalOptions="End"   BackgroundColor="White" />

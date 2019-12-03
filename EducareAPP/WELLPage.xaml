@@ -11,13 +11,17 @@
         <ScrollView>
             <StackLayout>
                 <Label Text="Welcome" FontSize="90" TextColor="Black" ></Label>
-
+                <Label Text=" ABC" FontSize="25"  TextColor="Black" ></Label>
                 <ImageButton Source="Abcblocks.jpg" Clicked="ABC"    ></ImageButton>
+                <Label Text=" Numbers" FontSize="25"  TextColor="Black" ></Label>
                 <ImageButton Source="numberblocks.jpg" Clicked="number"></ImageButton>
+                <Label Text=" Fruit" FontSize="25"  TextColor="Black"></Label>
                 <ImageButton Source="fruit.jpg" Clicked="Fruit"></ImageButton>
-                <ImageButton Source="Animals.jpg" Clicked="Animals" ></ImageButton>
+                <Label Text=" Animals" FontSize="25" TextColor="Black" ></Label>
+                <ImageButton Source="Animals.jpg"   Clicked="Animals" ></ImageButton>
+                <Label Text=" Colors" FontSize="25" TextColor="Black" ></Label>
                 <ImageButton Source="thecolorwheel.jpg" Clicked="colorwheel" ></ImageButton>
-                
+                <Label Text=" nursery rhymes" TextColor="Black" FontSize="25" ></Label>
                 <ImageButton Source="MusicTime.jpg" Clicked="Music" ></ImageButton>
 
 

@@ -7,18 +7,11 @@
              x:Class="EducareAPP.ABCPage">
     <ContentPage.Content>
 
-        <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height=""/>
-                <RowDefinition Height=""/>
+        <StackLayout>
 
-            </Grid.RowDefinitions>
 
-            <Grid.ColumnDefinitions>
 
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
+            <Label Text="hi" ></Label>
 
 
 
@@ -26,21 +19,9 @@
 
 
 
-        </Grid>  
-        
-          
- 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+        </StackLayout>
+
     </ContentPage.Content>
 </ContentPage>
