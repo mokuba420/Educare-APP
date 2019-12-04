@@ -4,7 +4,12 @@ using System.Text;
 
 namespace EducareAPP.Modles
 {
-    class Constants
+   public  class Constants
     {
+        public static bool IsDev = true; 
+  
+    
+     
     }
 }
+    

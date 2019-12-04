@@ -1,28 +1,28 @@
-@string/appbar_scrolling_view_behavior;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-@string/appbar_scrolling_view_behavior;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-alpha;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-alpha;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
-android.support.design.widget.BottomNavigationView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
-android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
-android.support.design.widget.TabLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+alpha;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\enterfromleft.xml
+alpha;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
-android.support.v7.widget.RecyclerView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\flyoutcontent.xml
-android.support.v7.widget.Toolbar;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
-android.support.v7.widget.Toolbar;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
 attr;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__attrs.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
 bitmap;obj\Debug\90\res\drawable\splash_screen.xml
 bool;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__defaults.xml
-cache-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 CarouselView.FormsPlugin.Android.HorizontalViewPager;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\horizontal_viewpager.xml
 CarouselView.FormsPlugin.Android.VerticalViewPager;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\vertical_viewpager.xml
 color;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__colors.xml
@@ -34,23 +34,23 @@ Com.ViewPagerIndicator.CirclePageIndicator;D:\GITHUBUPDATAS\Educare App\Educare-
 declare-styleable;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__attrs.xml
 dimen;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__defaults.xml
 enum;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__attrs.xml
-external-cache-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
+FrameLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\bottomtablayout.xml
 ImageView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\horizontal_viewpager.xml
 ImageView;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\vertical_viewpager.xml
 integer;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__defaults.xml
 item;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__styles.xml
-item;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+item;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\values\styles.xml
 item;obj\Debug\90\res\drawable\splash_screen.xml
 item;obj\Debug\90\res\values\styles.xml
 layer-list;obj\Debug\90\res\drawable\splash_screen.xml
 LinearLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\horizontal_viewpager.xml
 LinearLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\vertical_viewpager.xml
-LinearLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\bottomtablayout.xml
-paths;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\41\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+LinearLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\bottomtablayout.xml
+paths;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\horizontal_viewpager.xml
 RelativeLayout;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\0\jl\res\layout\vertical_viewpager.xml
 resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
@@ -59,20 +59,20 @@ resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\
 resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__colors.xml
 resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__defaults.xml
 resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__styles.xml
-resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+resources;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\values\styles.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
-set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
-set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
+set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\enterfromleft.xml
+set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\enterfromright.xml
+set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\exittoleft.xml
+set;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\exittoright.xml
 string;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
 string;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\strings.xml
 style;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\2\jl\res\values\vpi__styles.xml
-style;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\values\styles.xml
+style;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
-translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromleft.xml
-translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\enterfromright.xml
-translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\exittoleft.xml
-translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\42\jl\res\layout\rootlayout.xml
+translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\enterfromleft.xml
+translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\enterfromright.xml
+translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\exittoleft.xml
+translate;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP.Android\obj\Debug\90\lp\47\jl\res\layout\rootlayout.xml

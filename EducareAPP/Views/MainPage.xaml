@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="EducareAPP.MainPage"
+              BackgroundImageSource="watercolor.jpg">
+    <ScrollView>
+    <StackLayout>
+
+            <Image Source="login.png"></Image>
+
+            <Label x:Name="Lbl_Username " Text="UserName" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+
+            <Entry x:Name="Entry_Username" Placeholder="Username"/>
+            <Label x:Name="Lbl_Password" Text="PassWord" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20" />
+            <Entry x:Name="Entry_Password" Placeholder="Password"/>
+
+            <Button Text="Login" CornerRadius="20" BackgroundColor="Blue" Clicked="OnLoginClicked" /> 
+
+         
+
+            <Button Text="Sign Up Now" CornerRadius="20"  Clicked="OnSignUpNowClicked" BackgroundColor="Transparent"/>
+    
+    </StackLayout>
+    </ScrollView>
+</ContentPage>

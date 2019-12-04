@@ -7864,64 +7864,61 @@ namespace EducareAPP.Droid
 			public const int peach = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int pear = 2131165330;
+			public const int pears = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int pears = 2131165331;
+			public const int pineapple = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int pineapple = 2131165332;
+			public const int Prev = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int Prev = 2131165333;
+			public const int rainbow = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int rainbow = 2131165334;
+			public const int shapes = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int shapes = 2131165335;
+			public const int sheep = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int sheep = 2131165336;
+			public const int Signup = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int Signup = 2131165337;
+			public const int signup1 = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int signup1 = 2131165338;
+			public const int signupnowbutton = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int signupnowbutton = 2131165339;
+			public const int Splash_logo = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int Splash_logo = 2131165340;
+			public const int Splash_screen = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int Splash_screen = 2131165341;
+			public const int strawberry = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int strawberry = 2131165342;
+			public const int thecolorwheel = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int thecolorwheel = 2131165343;
+			public const int tooltip_frame_dark = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int tooltip_frame_dark = 2131165344;
+			public const int tooltip_frame_light = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int tooltip_frame_light = 2131165345;
+			public const int Up = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int Up = 2131165346;
+			public const int watercolor = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int watercolor = 2131165347;
+			public const int Watermelon = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int Watermelon = 2131165348;
-			
-			// aapt resource value: 0x7F0700A5
-			public const int zebra = 2131165349;
+			public const int zebra = 2131165348;
 			
 			static Drawable()
 			{
