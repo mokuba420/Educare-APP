@@ -9,9 +9,12 @@ namespace EducareAPP.Modles
     {
         [PrimaryKey]
         public int Id { get; set; }
-        public string acces_token { get; set; }
+        public string access_token { get; set; }
         public string error_description { get; set; }
         public DateTime expire_date { get; set; }
+        public double expire_in { get; set; }
+
+        
 
         public Token () { }
 

@@ -7,14 +7,23 @@
              x:Class="EducareAPP.MusicPage"   
               BackgroundImageSource="watercolor.jpg">
     <ContentPage.Content>
-        <StackLayout>
+        <ScrollView>
+            <StackLayout>
 
-           <ImageButton Source="CowJumped.jpg" Clicked="cowjumps"></ImageButton>
 
-            <ImageButton Source="blindmics.jpeg" Clicked="blindmics"></ImageButton>
+
+                <ImageButton Source="CowJumped.jpg" BackgroundColor="Transparent" Clicked="cowjump"></ImageButton>
+               
+                <ImageButton Source="blindmics.jpg" BackgroundColor="Transparent" Clicked="blindmics"></ImageButton>
+
+                <ImageButton Source="bus.jpg" BackgroundColor="Transparent" Clicked="Bus"></ImageButton>
+
+                <ImageButton Source="RowBOAt.jpg " BackgroundColor="Transparent" Clicked="RowBoat"></ImageButton>
+
+                <ImageButton Source="teapot.png" BackgroundColor="Transparent" Clicked="TeaPot"></ImageButton>
 
            
-
-        </StackLayout>
+           </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

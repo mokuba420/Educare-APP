@@ -7,8 +7,6 @@ namespace EducareAPP
 {
     public partial class App : Application
     {
-        static TokenDatabaseController tokenDatabase;
-        static UserDatabaseController userDatabase;
         
         public App()
         {
@@ -34,29 +32,8 @@ namespace EducareAPP
   
     
     
-        public static UserDatabaseController UserDatabase
-        {
-            get
-            { 
-                if(userDatabase == null )
-                {
-                    userDatabase = new UserDatabaseController();
-                }
-                return userDatabase;
-            }
-        }
-    
-         public static TokenDatabaseController TokenDatabase
-        {
-            get
-            { 
-                if(tokenDatabase == null )
-                {
-                    tokenDatabase = new TokenDatabaseController();
-                }
-                return tokenDatabase;
-            }
-        }
-    
+      
     }
+    
+    
 }

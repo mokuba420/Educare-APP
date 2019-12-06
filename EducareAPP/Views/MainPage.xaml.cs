@@ -28,24 +28,11 @@ namespace EducareAPP
 
         private void OnLoginClicked(object sender, EventArgs e)
         {
-            User user = new User(Entry_Username.Text, Entry_Password);
-            if (user.CheckInformation())
-            {
-                DisplayAlert("Login", "Login Success", "Oke");
-                App.UserDatabase.SaveUser(user);
-            }
-            else 
-            {
 
-                DisplayAlert("Login", "Login Not Correct , empty username or password.", "Oke");
-            
-            
-            
-            }
-        
-        
-        
-        
+            Navigation.PushAsync(new WELLPage());
+
+
+
         }
     }
 } 

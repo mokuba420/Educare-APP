@@ -7,6 +7,7 @@ public class MonoPackageManager_Resources {
 		"CarouselView.FormsPlugin.Android.dll",
 		"Com.Android.DeskClock.dll",
 		"Com.ViewPagerIndicator.dll",
+		"EducareAPP.dll",
 		"FormsViewGroup.dll",
 		"Microsoft.Bcl.AsyncInterfaces.dll",
 		"Microsoft.Bcl.HashCode.dll",
@@ -74,7 +75,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"EducareAPP.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

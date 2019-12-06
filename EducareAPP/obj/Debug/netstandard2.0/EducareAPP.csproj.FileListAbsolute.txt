@@ -13,4 +13,10 @@ D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Edu
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.AssemblyInfo.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\EducareAPP.deps.json
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\EducareAPP.dll
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\ref\EducareAPP.dll
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\bin\Debug\netstandard2.0\EducareAPP.pdb
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.dll
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\ref\EducareAPP.dll
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.pdb
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.csprojAssemblyReference.cache
