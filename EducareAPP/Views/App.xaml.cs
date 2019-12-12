@@ -1,5 +1,6 @@
 ﻿using EducareAPP.Data;
 using System;
+using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -13,6 +14,21 @@ namespace EducareAPP
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
+        }
+
+
+        static EducareDatabase database;
+        public static EducareDatabase Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new EducareDatabase(
+                      Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "EducareDatabaseSQLite.db3"));
+                }
+                return database;
+            }
         }
 
         protected override void OnStart()
@@ -29,11 +45,5 @@ namespace EducareAPP
         {
             // Handle when your app resumes
         }
-  
-    
-    
-      
     }
-    
-    
 }

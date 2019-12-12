@@ -2,20 +2,6 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
-      "CarouselView.FormsPlugin/5.2.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "2.5.0.121934"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        }
-      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -486,11 +472,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CarouselView.FormsPlugin": "5.2.0",
-          "Microsoft.EntityFrameworkCore": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.2.0.709249",
+          "Xamarin.Forms": "4.4.0.991265",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -502,20 +486,6 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
-      "CarouselView.FormsPlugin/5.2.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "2.5.0.121934"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        }
-      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -986,11 +956,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CarouselView.FormsPlugin": "5.2.0",
-          "Microsoft.EntityFrameworkCore": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.2.0.709249",
+          "Xamarin.Forms": "4.4.0.991265",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -1002,20 +970,6 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
-      "CarouselView.FormsPlugin/5.2.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "2.5.0.121934"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        }
-      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1486,11 +1440,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CarouselView.FormsPlugin": "5.2.0",
-          "Microsoft.EntityFrameworkCore": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.2.0.709249",
+          "Xamarin.Forms": "4.4.0.991265",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -1502,20 +1454,6 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
-      "CarouselView.FormsPlugin/5.2.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "2.5.0.121934"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll": {},
-          "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll": {}
-        }
-      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1986,11 +1924,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CarouselView.FormsPlugin": "5.2.0",
-          "Microsoft.EntityFrameworkCore": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.2.0.709249",
+          "Xamarin.Forms": "4.4.0.991265",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -2003,28 +1939,6 @@
     }
   },
   "libraries": {
-    "CarouselView.FormsPlugin/5.2.0": {
-      "sha512": "h849lqz0wvmpyiXqCrN7EW+cCGqK5chcefCfS55CkoGMMQx238QWNknUTOl/CvIdZ4bgs0Oztb7kamYXDlQ5mQ==",
-      "type": "package",
-      "path": "carouselview.formsplugin/5.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "carouselview.formsplugin.5.2.0.nupkg.sha512",
-        "carouselview.formsplugin.nuspec",
-        "lib/MonoAndroid/CarouselView.FormsPlugin.Abstractions.dll",
-        "lib/MonoAndroid/CarouselView.FormsPlugin.Android.dll",
-        "lib/UAP10/CarouselView.FormsPlugin.Abstractions.dll",
-        "lib/UAP10/CarouselView.FormsPlugin.UWP.dll",
-        "lib/UAP10/CarouselView.FormsPlugin.UWP.pri",
-        "lib/UAP10/CarouselView.FormsPlugin.UWP/CarouselView.FormsPlugin.UWP.xr.xml",
-        "lib/UAP10/FlipViewControl.xbf",
-        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll",
-        "lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll",
-        "lib/netstandard2.0/CarouselView.FormsPlugin.Abstractions.dll",
-        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+Xamarin.iOS10/CarouselView.FormsPlugin.Abstractions.dll"
-      ]
-    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
       "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
       "type": "package",
@@ -3097,5 +3011,20 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.4.0.991265 to 4.2.0.709249. Reference the package directly from the project to select a different version. \r\n EducareAPP.iOS -> EducareAPP -> Xamarin.Forms (>= 4.4.0.991265) \r\n EducareAPP.iOS -> Xamarin.Forms (>= 4.2.0.709249)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

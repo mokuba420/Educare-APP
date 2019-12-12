@@ -7,21 +7,37 @@
              x:Class="EducareAPP.ABCPage">
     <ContentPage.Content>
 
-        <StackLayout>
-
-
-
-            <Label Text="hi" ></Label>
-
-
-
-
-
-
-
-
-
-        </StackLayout>
+       <StackLayout>
+        <CarouselView 
+        ItemsSource="{Binding AlphabetList}">
+        <CarouselView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout>
+                    <Frame HasShadow="True"
+                               BorderColor="DarkGray"
+                               CornerRadius="5"
+                               Margin="20"
+                               HeightRequest="300"
+                               HorizontalOptions="Center"
+                               VerticalOptions="CenterAndExpand">
+                        <StackLayout>
+                            <Image Source="{Binding ImageName}" 
+                                       Aspect="AspectFill"
+                                       HeightRequest="150"
+                                       WidthRequest="150"
+                                       HorizontalOptions="Center" />
+                            <Label Text="{Binding Description}"
+                                       FontAttributes="Italic"
+                                       HorizontalOptions="Center"
+                                       MaxLines="5"
+                                       LineBreakMode="TailTruncation" />
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </DataTemplate>
+        </CarouselView.ItemTemplate>
+    </CarouselView>
+    </StackLayout>
 
     </ContentPage.Content>
 </ContentPage>

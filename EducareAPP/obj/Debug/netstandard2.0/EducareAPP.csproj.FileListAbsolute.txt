@@ -1,4 +1,3 @@
-D:\GITHUBUPDATAS\Educare App\EducareAPP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.csprojAssemblyReference.cache
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\ABCPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\AnimalPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
