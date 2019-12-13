@@ -14,13 +14,13 @@
 
 
 
-            <Label Text="Email" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20"/>
-            <Entry Text="{Binding Email}"/>
+           
             <Label Text="UserName" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20" />
             <Entry Text="{Binding UserName}"/>
             <Label Text="PassWord" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" FontSize="20" />
             <Entry Text="{Binding PassWord}"/>
 
+            <Button Text="back to home " CornerRadius="20" BackgroundColor="Blue" Clicked= "OnBackToHomeScreenClicked"/>
 
 
         </StackLayout>

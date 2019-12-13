@@ -13,8 +13,7 @@
                 <Label Text="Welcome" FontSize="90" TextColor="Black" ></Label>
                 <Label Text=" ABC" FontSize="25"  TextColor="Black" ></Label>
                 <ImageButton Source="Abcblocks.jpg" Clicked="ABC"    ></ImageButton>
-                <Label Text=" Numbers" FontSize="25"  TextColor="Black" ></Label>
-                <ImageButton Source="numberblocks.jpg" Clicked="number"></ImageButton>
+
                 <Label Text=" Fruit" FontSize="25"  TextColor="Black"></Label>
                 <ImageButton Source="fruit.jpg" Clicked="Fruit"></ImageButton>
                 <Label Text=" Animals" FontSize="25" TextColor="Black" ></Label>

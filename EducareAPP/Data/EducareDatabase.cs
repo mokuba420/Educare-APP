@@ -48,158 +48,80 @@ namespace EducareAPP.Data
             {
                 return database.DeleteAsync(item);
             }
-
-        public List<Alphabet> GetAlphabetList()
-        {
+          public List<Alphabet> GetAlphabetList()
+          {
             var returnList = new List<Alphabet>();
-
-
-
-            var alphabet = new Alphabet();
-
+            var alphabet = new Alphabet();         
             alphabet.ImageName = "AisforApple.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-          
             alphabet.ImageName = "bisforball.JPG";
-
             returnList.Add(alphabet);
-
-            alphabet = new Alphabet();
-       
+            alphabet = new Alphabet();       
             alphabet.ImageName = "cisforcat.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-      
             alphabet.ImageName = "disfordog.JPG";
-
             returnList.Add(alphabet);
-
-
             alphabet = new Alphabet();
-    
             alphabet.ImageName = "EisforEgg.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-      
             alphabet.ImageName = "fisforfish.JPG";
-
             returnList.Add(alphabet);
-
-            alphabet = new Alphabet();
-      
+            alphabet = new Alphabet();      
             alphabet.ImageName = "gisforgoat.JPG";
-
             returnList.Add(alphabet);
-
-            alphabet = new Alphabet();
-  
+            alphabet = new Alphabet();  
             alphabet.ImageName = "hisforhat.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-          
             alphabet.ImageName = "iisforink.JPG";
-
             returnList.Add(alphabet);
-
-
             alphabet = new Alphabet();
-
             alphabet.ImageName = "jisforjelly.JPG";
-
             returnList.Add(alphabet);
-
-
             alphabet = new Alphabet();
-   
             alphabet.ImageName = "kisforkite.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-       
             alphabet.ImageName = "lisforlion.JPG";
-
             returnList.Add(alphabet);
-
-
             alphabet = new Alphabet();
-        
             alphabet.ImageName = "misformonkey.JPG";
-
             returnList.Add(alphabet);
-
-
             alphabet = new Alphabet();
-    
             alphabet.ImageName = "nisfornose.JPG";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-      
             alphabet.ImageName = "oisfororange.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-    
             alphabet.ImageName = "sisforsun.jpg";
-
             returnList.Add(alphabet);
-
-            alphabet = new Alphabet();
-      
+            alphabet = new Alphabet();      
             alphabet.ImageName = "tisfortiger.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-          
             alphabet.ImageName = "uisforumbrella.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-          
             alphabet.ImageName = "visforvan.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-         
             alphabet.ImageName = "wisforwalrus.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-           
             alphabet.ImageName = "xisforxylophone.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-         
             alphabet.ImageName = "Yisforyellow.jpg";
-
             returnList.Add(alphabet);
-
             alphabet = new Alphabet();
-  
             alphabet.ImageName = "ziszebra.jpg";
-
             returnList.Add(alphabet);
-
             return returnList;
-        }
+          }
     }
 }
 

@@ -22,10 +22,7 @@ namespace EducareAPP
             Navigation.PushAsync(new ABCPage());
         }
 
-        private void number(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new NumbersPage());
-        }
+     
 
         private void Fruit(object sender, EventArgs e)
         {

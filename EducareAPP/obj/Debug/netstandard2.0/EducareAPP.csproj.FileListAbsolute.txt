@@ -1,10 +1,8 @@
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\ABCPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\AnimalPage.xaml.g.cs
-D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\FruitPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\MusicPage.xaml.g.cs
-D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\NumbersPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\TheColourPage.xaml.g.cs
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Views\WELLPage.xaml.g.cs
@@ -19,3 +17,4 @@ D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\Edu
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\ref\EducareAPP.dll
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.pdb
 D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\EducareAPP.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\Educare App\Educare-APP\EducareAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
